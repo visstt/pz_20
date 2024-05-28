@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\17-visstt\consoleProject\bin\Debug\net7.0\consoleProject.exe
+C:\Users\Admin\Desktop\17-visstt\consoleProject\bin\Debug\net7.0\consoleProject.deps.json
+C:\Users\Admin\Desktop\17-visstt\consoleProject\bin\Debug\net7.0\consoleProject.runtimeconfig.json
+C:\Users\Admin\Desktop\17-visstt\consoleProject\bin\Debug\net7.0\consoleProject.dll
+C:\Users\Admin\Desktop\17-visstt\consoleProject\bin\Debug\net7.0\consoleProject.pdb
+C:\Users\Admin\Desktop\17-visstt\consoleProject\obj\Debug\net7.0\consoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\17-visstt\consoleProject\obj\Debug\net7.0\consoleProject.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\17-visstt\consoleProject\obj\Debug\net7.0\consoleProject.AssemblyInfo.cs
+C:\Users\Admin\Desktop\17-visstt\consoleProject\obj\Debug\net7.0\consoleProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\17-visstt\consoleProject\obj\Debug\net7.0\consoleProject.dll
+C:\Users\Admin\Desktop\17-visstt\consoleProject\obj\Debug\net7.0\refint\consoleProject.dll
+C:\Users\Admin\Desktop\17-visstt\consoleProject\obj\Debug\net7.0\consoleProject.pdb
+C:\Users\Admin\Desktop\17-visstt\consoleProject\obj\Debug\net7.0\consoleProject.genruntimeconfig.cache
+C:\Users\Admin\Desktop\17-visstt\consoleProject\obj\Debug\net7.0\ref\consoleProject.dll
